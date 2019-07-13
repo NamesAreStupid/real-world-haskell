@@ -1,4 +1,4 @@
 # real-world-haskell
 
 
-This repo has examples from "Real World Haskell". I coded along while going through the book.
+This repo has examples from the book "Real World Haskell".
