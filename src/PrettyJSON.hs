@@ -8,7 +8,8 @@ import Numeric (showHex)
 import Data.Bits (shiftR, (.&.))
 import Data.Char (ord)
 import SimpleJSON (JValue(..))
-import PrettyStub hiding (string)
+import Prettify
+-- import PrettyStub hiding (string)
 -- import PrettyStub (Doc, (<>), char, double, fsep, hcat, punctuate, text,
 --                     compact, pretty)
 
